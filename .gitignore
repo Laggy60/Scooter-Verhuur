@@ -1,0 +1,10 @@
+.idea/
+*.iml
+
+Thumbs.db
+desktop.ini
+
+*.log
+*.bak
+*.tmp
+*.zip
